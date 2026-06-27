@@ -1,0 +1,11 @@
+eid,name,type,accuracy,target_accuracy,num_attempts,score,lid,uid
+1,Noun Match Multiple Choice,mcq,80,90,50,10,1,1
+2,Identify Verb Form,mcq,60,85,40,8,2,2
+3,Translate Food Item,translation,92,95,30,9,3,1
+4,Past Tense Conversion,typing,55,80,45,7,4,3
+5,Travel Phrase Completion,fill_blank,88,90,20,9,5,1
+6,Noun Gender Match,mcq,73,85,60,8,1,2
+7,Verb Conjugation Drill,typing,62,80,35,7,2,3
+8,Restaurant Vocabulary Match,mcq,95,90,15,10,3,1
+9,Past Tense Fill-in,fill_blank,48,75,50,6,4,2
+10,Travel Scenario Dialogue,translation,90,92,18,10,5,1

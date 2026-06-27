@@ -1,0 +1,8 @@
+uid,email,valid
+1,alice@example.com,true
+2,bob@example.com,true
+3,charlie@example.com,true
+4,diana@example.com,true
+5,eve@example.com,true
+6,frank@example.com,true
+7,grace@example.com,true

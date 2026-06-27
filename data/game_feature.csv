@@ -1,0 +1,8 @@
+feature_id,fname,type,description,is_active,Lesson_lid
+1,Lesson Progress Tracker,PROGRESS_BAR,Visual progress bar showing lesson completion,true,1
+2,First Lesson Badge,ACHIEVEMENT_BADGE,Badge awarded for completing first lesson,true,1
+3,5x Combo Bonus,COMBO_METER,Multiplier for 5 consecutive correct answers,true,3
+4,Speed Challenge,TIMED_CHALLENGE,Complete lesson under 3 minutes for bonus XP,true,4
+5,Cultural Story,STORY_MODE,Interactive story about language culture,true,5
+6,Grammar Master Badge,ACHIEVEMENT_BADGE,Badge for perfect grammar lesson completion,true,4
+7,10x Combo Master,COMBO_METER,Multiplier for 10 consecutive correct answers,true,2

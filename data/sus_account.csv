@@ -1,0 +1,8 @@
+flag_id,reason,is_resolved,Users_uid
+1,Multiple failed login attempts,false,2
+2,Unusual activity pattern detected,false,4
+3,Spam reports from other users,true,5
+4,Suspicious payment activity,false,3
+5,Account sharing detected,false,6
+6,Inappropriate content posted,true,1
+7,Bot-like behavior,false,7
